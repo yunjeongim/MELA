@@ -1,4 +1,4 @@
-# MELA: Multi-event Localization Answering Framework for Video Question Answering [SAC2025]
+# MELA: Multi-event Localization Answering Framework for Video Question Answering
 
 
 
